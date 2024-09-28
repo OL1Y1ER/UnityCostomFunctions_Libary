@@ -1,5 +1,5 @@
 # UnityCustomFunctions_Library
-## _This is a collection of custom functions._
+## _ This is a collection of custom functions _
 
 ## ObjectElevationComparator
 
