@@ -9,3 +9,8 @@ This is a collection of custom functions
 
 - returns "-1" if obj is lower than given obj
 
+## Custom Morsecode reader
+
+-converts text into morsecode
+
+-makes an light component blink the morscode
